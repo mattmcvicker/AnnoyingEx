@@ -1,2 +1,2 @@
-# This app gets annoying messages from Karen using workmananger and notifcations.
+# This app gets annoying messages from Karen.
 <img src="./Capture.PNG">
